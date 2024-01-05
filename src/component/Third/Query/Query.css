@@ -1,0 +1,33 @@
+.query{
+    border-width: 2px;
+    border: 2px solid #333333;
+    border-radius: 10px; 
+    height: 270px;
+    width: 260px;
+    /* padding: 10px;  */
+
+    text-align: center;}
+.heading{
+    border-width: 0px 0px 0px 2px;
+    border: solid #333333;
+    border-radius: 10px; 
+}
+.queryitem{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+.dist{
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+
+.butt{
+    margin-left: 20px;
+    border-radius: 10px;
+    margin-right: 10px;
+    /* width: 15; */
+    opacity: 0.7;
+}

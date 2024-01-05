@@ -1,0 +1,12 @@
+.Sales{
+  margin-left: 20px;
+  height: 270px;
+  width: 220px;
+  border-radius: 10px;
+  border-color: black;
+  border-width: 2px;
+  border: 2px solid #333333; /* Border style, adjust color and width as needed */
+  border-radius: 10px; /* Border radius for rounded corners, adjust as needed */
+  padding: 10px; /* Optional padding for space around the border */
+  text-align: center; /* Center text within the component */
+}

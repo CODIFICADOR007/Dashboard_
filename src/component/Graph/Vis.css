@@ -1,0 +1,14 @@
+.Vis{
+    /* display: flex; */
+    margin-top: -20px;
+    /* height: 700px; */
+    width: 600px;
+     /* margin-left: -100px; */
+    flex-direction: row;
+}
+@media screen and (max-width:1200px) {
+.Vis{
+    width: 300px;
+}
+
+}

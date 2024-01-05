@@ -1,0 +1,15 @@
+.Third{
+    display: flex;
+    flex-direction: row;
+    gap: 12rem;
+    background-color: rgba(248, 248, 248, 0.937);
+}
+@media screen and (max-width:1200px) {
+    .Third{
+        justify-self: flex-start;
+        flex-direction: column;
+        margin-top: 2rem;
+        margin-left: 40px;
+    }
+
+}
